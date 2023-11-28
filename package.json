@@ -1,0 +1,19 @@
+{
+  "name": "zusty_middleware",
+  "version": "1.0.0",
+  "description": "Middleware for Zusty - a Zustand Dev Tool ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanaKaplan944/ZustyMiddleware.git"
+  },
+  "author": "Dana Kaplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanaKaplan944/ZustyMiddleware/issues"
+  },
+  "homepage": "https://github.com/DanaKaplan944/ZustyMiddleware#readme"
+}
