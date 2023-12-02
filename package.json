@@ -1,5 +1,5 @@
 {
-  "name": "zusty_middleware",
+  "name": "zustymiddleware",
   "version": "1.0.0",
   "description": "Middleware for Zusty - a Zustand Dev Tool ",
   "main": "index.js",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/DanaKaplan944/ZustyMiddleware.git"
   },
-  "author": "Dana Kaplan",
-  "license": "ISC",
+  "author": "Dana Kaplan, Nancy Huang, Adrian Insingo, Brian Lee, William Kil",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DanaKaplan944/ZustyMiddleware/issues"
   },
