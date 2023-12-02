@@ -19,8 +19,6 @@ npm i zustymiddleware
 ```javascript
 import zustymiddleware from 'zustymiddleware';
 
-import zustymiddleware from 'zustymiddleware';
-
 const useStore = create(
   zustymiddleware((set) => ({
     bears: 0,
