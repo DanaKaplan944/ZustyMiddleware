@@ -1,6 +1,6 @@
 {
   "name": "zustymiddleware",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Middleware for Zusty - a Zustand Dev Tool ",
   "main": "index.js",
   "scripts": {
